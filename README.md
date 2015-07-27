@@ -33,7 +33,6 @@ namespace Medidata.Cloud.Thermometer.Example
 
             // Main thread can do other things.
             Console.ReadLine();
-            }
         }
     }
 }
